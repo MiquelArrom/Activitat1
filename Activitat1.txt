@@ -3,4 +3,10 @@ Hola que tal
 
 Segon canvi
 
+<<<<<<< HEAD
 Canvis fets en local de Antonio Figuerola
+=======
+
+
+Canvis fets a document canviat(brancaActivitat1)
+>>>>>>> Modificacio branca
