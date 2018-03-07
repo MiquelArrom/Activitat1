@@ -6,7 +6,7 @@ Segon canvi
 <<<<<<< HEAD
 Canvis fets en local de Antonio Figuerola
 =======
-
+Mes canvis mes canvis mes canvis
 
 Canvis fets a document canviat(brancaActivitat1)
 >>>>>>> Modificacio branca
