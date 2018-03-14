@@ -10,3 +10,5 @@ Mes canvis mes canvis mes canvis
 
 Canvis fets a document canviat(brancaActivitat1)
 >>>>>>> Modificacio branca
+
+Hola
